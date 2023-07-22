@@ -1,101 +1,21 @@
 booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger
-1,2,2023-01-27,Josephtown,2,674.61
-2,12,2023-04-22,East Nicoleshire,2,192.02
-3,83,2022-11-04,South Rhonda,2,804.55
-4,100,2022-10-01,South Nathan,4,813.82
-5,66,2023-04-22,New Elizabeth,3,553.64
-6,65,2023-05-13,New Matthewbury,2,889.63
-7,92,2023-04-23,Lake Jasmineside,5,217.0
-8,8,2023-04-28,Bryanville,3,618.42
-9,3,2023-06-19,Jillton,2,250.33
-10,69,2022-07-25,Lake Martinshire,1,830.0
-11,75,2023-07-12,Paigeview,4,329.73
-12,26,2023-04-21,Stanleyside,1,526.78
-13,48,2023-05-01,Lake Wanda,1,524.79
-14,83,2022-08-30,North Savannahshire,1,769.59
-15,24,2023-04-24,Oconnorbury,2,447.43
-16,79,2022-12-25,Port Johnshire,1,556.01
-17,94,2022-09-17,North Amanda,3,573.1
-18,40,2022-11-01,East Patriciamouth,3,345.62
-19,17,2023-06-20,North Madison,3,949.12
-20,50,2022-12-18,Thorntonburgh,4,798.86
-21,26,2023-01-06,East Robertside,4,554.7
-22,38,2022-09-21,Danielletown,2,963.58
-23,71,2022-07-27,Maysfurt,4,877.4
-24,28,2022-07-27,New Eugene,3,893.37
-25,89,2022-11-26,Langstad,1,486.12
-26,15,2023-05-25,Millermouth,2,380.64
-27,48,2023-04-01,North Garrettton,1,597.49
-28,54,2023-05-11,Elizabethburgh,1,302.29
-29,45,2022-10-25,North Jeremy,2,230.27
-30,4,2023-05-16,Rodriguezbury,2,516.52
-31,46,2022-12-21,East Kellyburgh,5,324.12
-32,1,2022-12-05,New Amberbury,2,921.31
-33,35,2023-03-10,West Nataliefurt,1,298.66
-34,52,2022-11-21,Deleonhaven,1,684.43
-35,91,2022-12-16,Petershire,5,228.1
-36,51,2023-01-19,Jamesfort,5,523.3
-37,96,2023-07-21,Lake Michael,1,444.23
-38,4,2023-03-27,North Terri,4,838.57
-39,18,2023-03-23,Port Ashleyview,2,273.24
-40,48,2022-10-27,Williammouth,5,795.4
-41,89,2022-11-20,Allenton,1,279.32
-42,70,2022-09-04,Hernandeztown,5,605.51
-43,73,2022-12-06,East Priscilla,1,366.04
-44,26,2022-12-29,New Nicholasbury,3,952.41
-45,75,2023-03-30,East Calvin,4,429.39
-46,34,2023-03-11,New Evanstad,1,972.86
-47,77,2023-03-03,New Catherine,3,325.15
-48,34,2022-10-15,West Aprilville,4,701.61
-49,20,2022-11-14,West Nicholas,5,937.23
-50,65,2023-05-04,Lancemouth,2,595.15
-51,48,2023-06-12,North Patrick,5,454.9
-52,32,2022-09-17,South Beverly,3,300.01
-53,19,2022-09-02,East Crystalberg,5,542.82
-54,72,2023-02-25,Lake Jamesshire,1,170.7
-55,40,2023-04-21,North Sierraland,5,842.42
-56,23,2022-11-20,Jenniferside,2,555.82
-57,34,2023-05-30,South Gloria,2,430.21
-58,25,2023-06-28,West Bradley,4,147.46
-59,8,2023-05-15,South Johnburgh,2,335.79
-60,95,2023-06-02,New Bradton,1,683.99
-61,87,2022-10-06,Stevenshire,3,237.34
-62,30,2022-07-29,Williamsport,5,238.29
-63,7,2023-02-02,West Johnfort,4,238.97
-64,38,2022-09-11,Caitlinfort,4,959.25
-65,11,2023-05-25,Jacksonmouth,5,614.15
-66,65,2022-12-29,Christopherstad,2,178.72
-67,28,2022-10-07,North Brandy,2,440.0
-68,70,2022-07-25,West Kiarafurt,2,770.49
-69,12,2023-02-01,Port Justin,2,691.14
-70,89,2022-09-17,Paulport,2,140.28
-71,83,2023-01-23,Tonyview,5,822.89
-72,42,2023-05-30,Emilyside,4,206.9
-73,30,2022-09-09,Malikville,3,625.29
-74,53,2023-06-29,Markfurt,4,993.32
-75,56,2022-07-30,Gordonborough,4,910.2
-76,66,2022-11-16,Port Valerie,1,935.21
-77,84,2023-02-03,Port Brooke,2,496.43
-78,67,2022-12-07,East Jamesshire,3,973.87
-79,93,2022-10-17,Millerfurt,5,125.64
-80,51,2023-02-03,Gonzalezburgh,1,575.35
-81,31,2022-09-29,New Amberhaven,2,572.8
-82,87,2023-04-06,Deborahburgh,2,197.83
-83,61,2023-06-19,Anthonyburgh,2,629.65
-84,14,2022-11-19,South Pamelaburgh,5,717.5
-85,81,2023-06-17,Austinmouth,1,678.28
-86,15,2023-01-14,Rhodeschester,2,803.72
-87,80,2023-07-02,South Douglas,2,872.96
-88,58,2023-05-14,West Rodney,1,150.2
-89,11,2023-03-10,Myersberg,4,272.88
-90,42,2023-04-21,Phillipton,2,912.96
-91,69,2022-11-18,New Edward,1,722.35
-92,9,2023-02-04,South Robertberg,4,867.99
-93,64,2023-02-23,South Jenniferborough,2,645.11
-94,34,2022-10-02,Brownport,4,610.34
-95,64,2023-06-29,East Sydneyville,2,955.86
-96,63,2022-12-03,Melissaton,3,560.45
-97,41,2022-12-18,Pearsonport,4,877.56
-98,55,2022-08-04,North Joshuahaven,2,520.21
-99,46,2023-07-20,Amyborough,2,544.5
-100,42,2023-07-01,East Travis,3,807.57
+1,87,2022-10-04,Alexandriafurt,3,544
+2,64,2023-07-05,Harrisfurt,5,787
+3,79,2022-12-15,Port Caseyview,4,189
+4,97,2022-09-30,East Shawna,1,229
+5,89,2022-08-25,Port Nicoleton,4,782
+6,100,2023-04-15,Dawnmouth,4,296
+7,50,2023-05-01,Lake Jeffreyside,3,748
+8,10,2023-04-15,Helenville,2,796
+9,24,2022-11-01,Lake Emily,1,127
+10,20,2023-06-13,Joeside,3,870
+11,51,2023-04-16,East Breanna,2,280
+12,85,2023-04-05,New Philip,4,498
+13,32,2022-08-01,South Lisaside,4,465
+14,83,2023-03-20,Simmonsshire,1,943
+15,1,2022-11-13,Baileyborough,3,831
+16,65,2022-12-30,Lake Tammyborough,1,994
+17,44,2023-01-31,Lopezburgh,3,879
+18,13,2022-12-15,Colemanshire,1,148
+19,35,2022-09-09,Paulton,5,956
+20,51,2022-12-12,Brittanymouth,3,297
