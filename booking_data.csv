@@ -1,3 +1,4 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers, cost_per_passenger
 1,2,2023-01-27,Josephtown,2,674.61
 2,12,2023-04-22,East Nicoleshire,2,192.02
 3,83,2022-11-04,South Rhonda,2,804.55
